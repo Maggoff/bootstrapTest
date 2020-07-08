@@ -4,6 +4,7 @@
   cursor: pointer;
   border: 2px solid #2036f8;
   border-radius: 10px;
+  margin: 10px;
 }
 
 .btn:hover{
@@ -11,4 +12,42 @@
   background: #2036f8;
   color: #ffffff;
   text-decoration: none;
+}
+
+.title{
+  text-align: center;
+  margin: 30px 0;
+}
+
+.second{
+  background: #a3a3a3;
+}
+
+.collapse__btns{
+  display: flex;
+  justify-content: center;
+}
+
+.collapse__title{
+  text-align: center;
+  margin: 20px 0;
+}
+
+.cd{
+  margin-bottom: 20px;
+}
+
+.dropdown-test{
+  background: #a3a3a3;
+  padding-bottom: 150px;
+}
+
+.items{
+  display: flex;
+  justify-content: center;
+}
+
+.vd{
+  display: flex;
+  justify-content: center;
 }
